@@ -23,7 +23,7 @@ void Brightness(BGR *x, int i) {
 }
 
 int main(int argc, char* argv[]) {
-	if(argc > 3){
+	if(argc > 2){
 		ImageBMP x;
 
 		try {
